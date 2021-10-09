@@ -13,4 +13,7 @@ package controller;
  * @since 2021-10-09 10:59 AM
  */
 public class CustomerController {
+    public static void main(String[] args) {
+        System.out.println("Customer");
+    }
 }
