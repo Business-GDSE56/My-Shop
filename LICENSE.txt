@@ -1,0 +1,3 @@
+ Copyright (c) CDM-SW-SYSTEMS. All rights reserved.
+ Licensed under the SriLankan Information License.
+ See LICENSE .txt in the project root for license. information.
